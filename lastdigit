@@ -1,0 +1,9 @@
+class number{
+          
+					public int lastdigit(int input1){
+					
+				                  lastdigit=inpit1%10;
+													return lastdigit;
+					}					
+}					
+					
